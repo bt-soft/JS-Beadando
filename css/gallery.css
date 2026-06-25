@@ -26,6 +26,11 @@ body{
     border: 10px solid black;
 }
 
+.preview:focus-visible {
+    outline: 4px solid #ffcc00;
+    outline-offset: 4px;
+}
+
 img{
     width:95%;
 }
