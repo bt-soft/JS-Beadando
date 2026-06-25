@@ -26,7 +26,7 @@ body{
     border: 10px solid black;
 }
 
-.preview:focus-visible {
+.preview:focus {
     outline: 4px solid #ffcc00;
     outline-offset: 4px;
 }
